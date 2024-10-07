@@ -102,5 +102,7 @@ Click on your profile --> all settings --> sessions --> find your session, and t
 - Matrix: https://matrix.org/
 - Element: https://element.io/
 
-License
+---
+
+#### License
 This package is licensed under the MIT License. See the LICENSE file for details.
