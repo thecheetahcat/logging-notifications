@@ -2,14 +2,10 @@
 
 ---
 
+## Description:
 This package provides two main functionalities:
 1. **Logging Helper**: A simple logger utility to log messages to a file with timestamp, module name, and logging level.
 2. **Matrix NIO Encrypted Notifications**: A utility to send encrypted notifications to a Matrix room using the `matrix-nio` library.
-
-## Features
-- **Custom Logging**: Creates log files with detailed information on message logs, errors, and other events.
-- **Encrypted Notifications**: Send encrypted messages to a Matrix room using credentials stored in a `.env` file.
-  
 
 ---
 
