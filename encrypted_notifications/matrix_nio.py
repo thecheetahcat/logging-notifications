@@ -1,4 +1,4 @@
-from encrypted_notifications.constants import (
+from .constants import (
     USERNAME,
     PASSWORD,
     ROOM_ID,
