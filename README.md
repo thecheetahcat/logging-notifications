@@ -26,11 +26,6 @@ You can install the required dependencies via `pip`:
 pip install -r requirements.txt
 ```
 
-Or, if you've packaged the project:
-```bash
-pip install -e .
-```
-
 ---
 
 ## Required Environment Variables
