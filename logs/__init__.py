@@ -1,1 +1,1 @@
-from .logger_helper import LoggerHelper
+from logs.logger_helper import LoggerHelper

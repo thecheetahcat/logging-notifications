@@ -1,1 +1,1 @@
-from .matrix_nio import MatrixNio
+from encrypted_notifications.matrix_nio import MatrixNio
