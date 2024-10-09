@@ -16,9 +16,7 @@ from typing import Optional, Tuple
 # 'nio' module is provided by the 'matrix-nio' package
 from nio import AsyncClient, LoginResponse
 
-# suppress specific warnings related to event decryption and crypto operations
-# logging.getLogger("nio.event_decryption").setLevel(logging.ERROR)
-# logging.getLogger("nio.crypto").setLevel(logging.ERROR)
+# suppress all warnings except critical
 logging.getLogger("nio").setLevel(logging.CRITICAL)
 
 
