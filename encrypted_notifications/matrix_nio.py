@@ -17,8 +17,9 @@ from typing import Optional, Tuple
 from nio import AsyncClient, LoginResponse
 
 # suppress specific warnings related to event decryption and crypto operations
-logging.getLogger("nio.event_decryption").setLevel(logging.ERROR)
-logging.getLogger("nio.crypto").setLevel(logging.ERROR)
+# logging.getLogger("nio.event_decryption").setLevel(logging.ERROR)
+# logging.getLogger("nio.crypto").setLevel(logging.ERROR)
+logging.getLogger("nio").setLevel(logging.CRITICAL)
 
 
 class MatrixNio:
