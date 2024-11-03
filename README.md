@@ -97,3 +97,6 @@ Click on your profile --> all settings --> sessions --> find your session, and t
 
 #### License
 This package is licensed under the MIT License. See the LICENSE file for details.
+
+----
+### Updated local commit author to cheetah cat...
